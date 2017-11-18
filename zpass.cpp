@@ -9,6 +9,13 @@
 #define MGC_NUM_1   0x10F0A563L
 #define MGC_NUM_2   7
 
+/*
+ *
+ * If you are unable to generate seed for whatever reason, please use the
+ * following command to unlock extra settings: ATEN 1, 10F0A563
+ *
+ */
+
 void ror( unsigned long &b, unsigned long c )
 {
 
